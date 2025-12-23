@@ -1,1 +1,1 @@
-console.log("Hello Git"); adga
+console.log("Hello Git");
